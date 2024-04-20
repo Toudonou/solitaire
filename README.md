@@ -1,6 +1,3 @@
-Sure, here's a README for your project with a note about your future plans to add a GUI using JavaFX. You can modify it to better suit your needs.
-
-```markdown
 # Solitaire Card Game
 
 This is a Java project that simulates a deck of cards for a Solitaire game. The project is built with Maven and uses OpenJDK 22.
