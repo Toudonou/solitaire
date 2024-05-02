@@ -59,4 +59,3 @@ java -cp target/solitaire-1.0-SNAPSHOT.jar org.toudonou.Main
 ## Author
 
 - [Toudonou](https://github.com/Toudonou)
-```
